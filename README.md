@@ -1,2 +1,11 @@
 # fast.ai-walkthru
-Learning the necessary tools to work with fast ai
+
+## Introduction
+Learning the necessary tools to work with fast ai and other frameworks
+
+##List Items
+-First
+-Second
+
+## More Details
+Learning wsl and git
