@@ -10,3 +10,5 @@ Learning the necessary tools to work with fast ai and other frameworks
 
 ## More Details
 Learning wsl and git
+
+This is some text added using my remote wsl machine connection.
